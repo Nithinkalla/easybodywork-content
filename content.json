@@ -7,24 +7,23 @@
   "services": [
     {
       "title": "Collision Repair",
-      "desc": "Expert collision repair services to restore your vehicle to pre-accident condition..",
-      "image": "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765211075/photo-1492144534655-ae79c964c9d7_ehv3jc.jpg?v2"
+      "desc": "Expert collision repair services to restore your vehicle to pre-accident condition.",
+      "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=600&q=80"
     },
     {
       "title": "Paint Services",
       "desc": "Premium paint matching and full body painting with factory-quality finish.",
-      "image": "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765203399/samples/animals/reindeer.jpg"
+      "image": "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?w=600&q=80"
     },
     {
       "title": "Dent Removal",
       "desc": "Paintless dent repair and traditional dent removal for all sizes.",
-      "image": "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765211218/5D0BB7E042BD4C9DBEF84B5E70482520_73AA748306934B0C9CE20E32231DFCE2_CZ25W01IX0011911-carrera-front_nwdtk1.png"
-
+      "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=600&q=80"
     },
     {
       "title": "Frame Straightening",
       "desc": "Precision frame alignment using state-of-the-art equipment.",
-      "image": "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765203399/samples/animals/reindeer.jpg"
+      "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=600&q=80"
     },
     {
       "title": "Custom Work",
@@ -36,9 +35,9 @@
   "gallery": [
     "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765211075/photo-1492144534655-ae79c964c9d7_ehv3jc.jpg",
     "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765211218/5D0BB7E042BD4C9DBEF84B5E70482520_73AA748306934B0C9CE20E32231DFCE2_CZ25W01IX0011911-carrera-front_nwdtk1.png",
-    "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765211075/photo-1492144534655-ae79c964c9d7_ehv3jc.jpg",
-    "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765203399/samples/animals/reindeer.jpg",
-    "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765211075/photo-1492144534655-ae79c964c9d7_ehv3jc.jpg",
+    "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=600&q=80",
+    "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=600&q=80",
+    "https://images.unsplash.com/photo-1542362567-b07e54358753?w=600&q=80",
     "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=600&q=80",
     "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&q=80",
     "https://res.cloudinary.com/dzytbf1kw/image/upload/v1765211218/5D0BB7E042BD4C9DBEF84B5E70482520_73AA748306934B0C9CE20E32231DFCE2_CZ25W01IX0011911-carrera-front_nwdtk1.png"
